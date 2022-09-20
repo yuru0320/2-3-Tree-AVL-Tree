@@ -1,4 +1,4 @@
-# 2-3-Tree & AVL-Tree
+# 2-3 Tree & AVL Tree
 
 # 開發平台
 Window 10
@@ -26,10 +26,6 @@ Dev-C++ 5.11
 5.選擇是否執行mission 2( Build AVL tree )。
 
 6.若選擇輸入2，則會顯示AVL tree之樹高、樹根節點所儲存的學校資訊、節點總數、學校數量。
-
-<img width="323" alt="擷取" src="https://user-images.githubusercontent.com/95215851/191266723-2bbb1cc0-0b5f-4023-abf6-29ac9d494894.PNG">
-<img width="267" alt="擷取2" src="https://user-images.githubusercontent.com/95215851/191266728-82711af5-4e00-4437-af4a-8b0cf6e0f189.PNG">
-
 
 # 簡介
 #### 2-3 tree
