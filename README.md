@@ -1,4 +1,4 @@
-# 2-3-Tree-AVL-Tree
+# 2-3-Tree & AVL-Tree
 
 # 開發平台
 Window 10
