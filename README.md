@@ -34,6 +34,7 @@ Dev-C++ 5.11
 每個節點最多放兩個key ，也就是說每個節點最多會有3個子樹。
 
 先將資料讀進，再一筆一筆依照插入樹中2-3樹的概念。
+![DS2_ex2_mission1](https://user-images.githubusercontent.com/95215851/191265159-7d7d65bd-0e30-4850-9d64-6c7cac97a033.png)
 
 #### AVL tree
 每新增一個節點就將其父節點紀錄，並且檢查其平衡係數是否需要做交換(RR、LL、LR、RL)，再計算樹高，最後將其樹高、head節點印出。
@@ -47,8 +48,7 @@ LL:先將暫存的節點設為目前節點的左節點，再將目前節點的�
 LR:先做RR再做LL。
 
 RL:先做LL再做RR。
-
-
+![DS2_ex2_mission2](https://user-images.githubusercontent.com/95215851/191265181-0339d092-4fc4-47d1-973c-98f391cfeb2c.png)
 
 
 
