@@ -26,8 +26,10 @@ Dev-C++ 5.11
 5.選擇是否執行mission 2( Build AVL tree )。
 
 6.若選擇輸入2，則會顯示AVL tree之樹高、樹根節點所儲存的學校資訊、節點總數、學校數量。
-
+<img width="323" alt="擷取" src="https://user-images.githubusercontent.com/95215851/191267225-628055af-a518-43a6-a3d2-1e10f3f914a0.PNG">
+<img width="344" alt="擷取3" src="https://user-images.githubusercontent.com/95215851/191267265-1b8ac719-dc5c-4e51-8b35-1065134de42e.PNG">
 # 簡介
+
 #### 2-3 tree
 是一種平衡的樹狀結構(Balance)，這個資料結構是由下而上長的樹，且能確定每個leaf的樹高都是相同的。
 
